@@ -10,7 +10,7 @@ A queue in python is a data structure that has a front and a rear. It stores ite
 
 ## Some Advatages
 * It is dynamic (meaning can be chagned)
-* it is an efficient means storing data
+* it is an efficient means of storing data
 * Items can be added or removed with a complexity of O(1)
 * The Advantage over Arrays is that it can be added to and subtracted from
 
