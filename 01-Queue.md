@@ -61,7 +61,10 @@ Here are some common examples of code to work on a queue
 ![example of a queue](pictures/queue_example.png)
  # Output of program
  ![output](pictures/output_queue.png)
-
+ [Click here to see the code](https://github.com/Leepermatt/cse212-final_project/blob/main/01-python_files.py)
  # Problem to Solve: 
  ## Create a class roster that removes classmates as they graduate.
+* There can only be 30 students in the class at a time. If more than 30 are added, the oldest should fall off.
+* Create a test case to add students to the roster.
+[Click here to see the solutions](https://github.com/Leepermatt/cse212-final_project/blob/main/01-python_solution.py)
  
