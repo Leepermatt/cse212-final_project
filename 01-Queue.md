@@ -54,3 +54,14 @@ Here are some common examples of code to work on a queue
 `print(queue_exm)`
 
 ![output of Queueing op](pictures/image.png)
+
+# Example of Using a Queue
+## This is a program to help you track your favorite foods you are storing in your pantry
+
+![example of a queue](pictures/queue_example.png)
+ # Output of program
+ ![output](pictures/output_queue.png)
+
+ # Problem to Solve: 
+ ## Create a class roster that removes classmates as they graduate.
+ 
