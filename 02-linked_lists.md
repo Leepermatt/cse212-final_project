@@ -235,7 +235,7 @@ print("Queue after dequeue operation:")
 bank_queue.display()
 ```
 ## Here is a link to the code
-![Code](https://github.com/Leepermatt/cse212-final_project/blob/main/02-linked_lists_sample.py)
+![Code](02-linked_lists_sample.py)
 ## Here is the expected output
 ![output](pictures/output_linked_lists.png)
 
@@ -244,4 +244,7 @@ bank_queue.display()
 * Have a function to add train cars
 * Have a function to remove train cars
 * Be able to display the train
-
+## Here is the expected outcome
+![outcome](pictures/02-expected_output.png)
+## Here is the solution
+![solution_code](02-linked_lists_solution.py)
