@@ -1,4 +1,4 @@
-# 02 Queue
+# 01 Queue
 ## What is a Queue??
 
 A queue in python is a data structure that has a front and a rear. It stores items in an First In First Out manner (FIFO). This means that the it operates similar to a normal line of people. As items come into it they are added to the back. To remove an item, it is taken from the front. 
