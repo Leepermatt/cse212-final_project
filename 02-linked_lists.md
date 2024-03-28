@@ -238,3 +238,10 @@ bank_queue.display()
 ![Code](https://github.com/Leepermatt/cse212-final_project/blob/main/02-linked_lists_sample.py)
 ## Here is the expected output
 ![output](pictures/output_linked_lists.png)
+
+# Create a linked list program that manages train cars 
+## Requirements
+* Have a function to add train cars
+* Have a function to remove train cars
+* Be able to display the train
+
