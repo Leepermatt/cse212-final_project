@@ -248,3 +248,4 @@ bank_queue.display()
 ![outcome](pictures/02-expected_output.png)
 ## Here is the solution
 ![solution_code](02-linked_lists_solution.py)
+[Link to welcome page](0-welcome.md)
