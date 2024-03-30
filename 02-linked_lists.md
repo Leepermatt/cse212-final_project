@@ -46,6 +46,9 @@ Class Node(object):
     def set_next(self, next):
         self.next = next
 ```
+## Here are some examples of what a visualation of what a linked list looks like
+![picture_of_a_linked_list](pictures\linked_list_single.png)
+As you can see, it is composed of a head and a tail. When you add and "x" to it. It is put on the tail of the list. When you give the command to remove and item, the first item, an "a" is removed. The command pop() removes from the front and the command push() adds to the front.
 ## How to build a single linked list
 ```python
 Class LinkedList(object):
