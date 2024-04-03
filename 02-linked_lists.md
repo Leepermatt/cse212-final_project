@@ -20,7 +20,7 @@ A linked list is a method of stroing data in Python that allows either a single 
  * `is_empty()`
  * `get_count()`
 
-  ## What to remebmer
+  ## What to remember
   * There is no natural data structure Python code for linked lists
   * Before we can use a linked list, we need to create a Node Class
   * We need to create the behaviors that allow us to access the data from each node
