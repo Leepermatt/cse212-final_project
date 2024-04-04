@@ -9,11 +9,11 @@ Trees are a data storagbe structure composed of nodes used for storing hierarchi
 * Easy to maintain, Trees are easy to maintain becasue they enforce a strict hierachy and relationship between nodes.
 * Natural organization, Trees have a natural hierarchical organization that can be used to represent many types of relationships
 * Great for file systems and organizational structures 
-* Fast insertion and deletion, inseting and deleting can be done in O(log n) time. this is very quick, even for large trees
+* Fast insertion and deletion, inserting and deleting can be done in O(log n) time. This is very quick, even for large trees
 
 ## Disadvantages of a tree node
 * Memory overhead, trees can require significant memory to store, especially if they are very large
-* Imbalanced trees, if they aren not ballanced it can result in uneven search times.
+* Imbalanced trees, if they aren't not balanced it can result in uneven search times.
 * Complexity, trees can be complex data structures and can be difficult to understand
 * Limited flexibility, they are flexible in terms of size and structure, they are not as flexible as some other data structures.
 * Inefficient for certain operations like sorting and grouping.
