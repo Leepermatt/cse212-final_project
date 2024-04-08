@@ -1,6 +1,6 @@
 # Linked Lists
 ## What is a linked list?
-A linked list is a method of stroing data in Python that allows either a single or double linked "nodes". If it sis a single linked then the information only will travel in a single direction, while a double linked list allows the last as well as the first items to be linked. 
+A linked list is a method of stroing data in Python that allows either a single or double linked "nodes". If it is a single linked then the information only will travel in a single direction, while a double linked list allows the last as well as the first items to be linked. 
 
 ## What is the benefits?
 * This allows infortamtion to be added and removed without having to change the index of the items

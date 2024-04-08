@@ -1,8 +1,13 @@
 # Python Tutorial
 
-## Welcome to the Python tutotial on the follwoing topics
+## Welcome to the Python tutorial on the follwoing topics
 
+## File Links
+* [Queue](01-Queue.md)
+* [Linked Lists](02-linked_lists.md)
+* [Trees](03-Trees.md)
 
+## Github links
 * [Queue](https://github.com/Leepermatt/cse212-final_project/blob/main/01-Queue.md)
 * [Linked Lists](https://github.com/Leepermatt/cse212-final_project/blob/main/02-linked_lists.md)
 * [Trees](https://github.com/Leepermatt/cse212-final_project/blob/main/03-Trees.md)

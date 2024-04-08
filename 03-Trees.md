@@ -19,8 +19,8 @@ Trees are a data storagbe structure composed of nodes used for storing hierarchi
 * Inefficient for certain operations like sorting and grouping.
 
 ## When to use
-* When you need to stroe data and have a quick efficient recall of tha data.
-* When seatch time matters for data retrieval
+* When you need to store data and have a quick efficient recall of tha data.
+* When search time matters for data retrieval
 
 ## Code to initialize a tree node
 ``` python
