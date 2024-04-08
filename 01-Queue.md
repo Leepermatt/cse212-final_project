@@ -22,6 +22,8 @@ Here are some common examples of code to work on a queue
 * `qsize: ` Returns the queue's length
 * ` full(): ` Checks and returns true if the queue is full
 * ` maxsize(): ` Maximum elemnts allowed in a queue
+## Here is a visual diagram of what a queue looks like
+![picture of Queue](pictures/que.png)
  ## How to implement a Queue in python with a list
   ` # Initialize a queue `
 
